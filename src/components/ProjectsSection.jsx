@@ -33,9 +33,9 @@ const projects = [
     id: 4,
     title: "E-commerce Platform",
     description:
-      "Full-featured e-commerce platform with user authentication and payment processing.",
-    image: "/projects/project3.png",
-    tags: ["React", "Node.js", "Stripe"],
+      "A software engineering capstone merchandise application",
+    image: "/projects/project4-4.png",
+    tags: ["React", "Node.js", "MongoDB"],
     demoUrl: "#",
     githubUrl: "#",
   },
