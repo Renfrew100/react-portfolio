@@ -6,22 +6,31 @@ const projects = [
     title: "Space Fusion Inc.",
     description: "A development site for research and development of launch vehicles",
     image: "/projects/project1-1.png",
-    tags: ["React", "Javascript", "CSS"],
+    tags: ["React", "Vue.js", "CSS"],
     demoUrl: "https://spacefusioninc-3ff97f804c73.herokuapp.com/",
     githubUrl: "https://github.com/Renfrew100/SpaceFusionInc",
   },
   {
     id: 2,
-    title: "Orbit Analytics Dashboard",
+    title: "Journaspect",
     description:
-      "Interactive analytics dashboard with data visualization and filtering capabilities.",
-    image: "/projects/project2.png",
-    tags: ["TypeScript", "D3.js", "Next.js"],
-    demoUrl: "#",
-    githubUrl: "#",
+      "A journalism application that was created in Hack the North 2021 that allows users to add, delete, and modify journalists",
+    image: "/projects/project2-2.png",
+    tags: ["React MUI", "MongoDB", "Express",],
+    githubUrl: "https://github.com/Renfrew100/journaspect",
   },
   {
     id: 3,
+    title: "Software For Love",
+    description:
+      "Software For Love is a non-profit organization that focuses on providing software solutions. We are a team of young professionals who are passionate about technology and seek to give back to our community.",
+    image: "/projects/project3-3.png",
+    tags: ["Gatsby.js", "Node.js", "Netlify"],
+    demoUrl: "https://www.softwareforlove.com/",
+    githubUrl: "https://github.com/Software-For-Love/software-for-love-site",
+  },
+    {
+    id: 4,
     title: "E-commerce Platform",
     description:
       "Full-featured e-commerce platform with user authentication and payment processing.",
@@ -31,17 +40,7 @@ const projects = [
     githubUrl: "#",
   },
     {
-    id: 3,
-    title: "E-commerce Platform",
-    description:
-      "Full-featured e-commerce platform with user authentication and payment processing.",
-    image: "/projects/project3.png",
-    tags: ["React", "Node.js", "Stripe"],
-    demoUrl: "#",
-    githubUrl: "#",
-  },
-    {
-    id: 3,
+    id: 5,
     title: "E-commerce Platform",
     description:
       "Full-featured e-commerce platform with user authentication and payment processing.",
