@@ -21,7 +21,7 @@ export const AboutSection = () => {
             </p>
 
             <p className="text-muted-foreground">
-             I'm passionite about space, travel, and sports.
+             I'm passionate about space, travel, and sports.
             </p>
 
             <div className="flex flex-col sm:flex-row gap-4 pt-4 justify-center">
