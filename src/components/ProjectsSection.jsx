@@ -3,12 +3,12 @@ import { ArrowRight, ExternalLink, Github } from "lucide-react";
 const projects = [
   {
     id: 1,
-    title: "SaaS Landing Page",
-    description: "A beautiful landing page app using React and Tailwind.",
-    image: "/projects/project1.png",
-    tags: ["React", "TailwindCSS", "Supabase"],
-    demoUrl: "#",
-    githubUrl: "#",
+    title: "Space Fusion Inc.",
+    description: "A development site for research and development of launch vehicles",
+    image: "/projects/project1-1.png",
+    tags: ["React", "Javascript", "CSS"],
+    demoUrl: "https://spacefusioninc-3ff97f804c73.herokuapp.com/",
+    githubUrl: "https://github.com/Renfrew100/SpaceFusionInc",
   },
   {
     id: 2,
@@ -21,6 +21,26 @@ const projects = [
     githubUrl: "#",
   },
   {
+    id: 3,
+    title: "E-commerce Platform",
+    description:
+      "Full-featured e-commerce platform with user authentication and payment processing.",
+    image: "/projects/project3.png",
+    tags: ["React", "Node.js", "Stripe"],
+    demoUrl: "#",
+    githubUrl: "#",
+  },
+    {
+    id: 3,
+    title: "E-commerce Platform",
+    description:
+      "Full-featured e-commerce platform with user authentication and payment processing.",
+    image: "/projects/project3.png",
+    tags: ["React", "Node.js", "Stripe"],
+    demoUrl: "#",
+    githubUrl: "#",
+  },
+    {
     id: 3,
     title: "E-commerce Platform",
     description:
