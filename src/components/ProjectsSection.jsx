@@ -17,6 +17,7 @@ const projects = [
       "A journalism application that was created in Hack the North 2021 that allows users to add, delete, and modify journalists",
     image: "/projects/project2-2.png",
     tags: ["React MUI", "MongoDB", "Express",],
+    demoUrl: "#",
     githubUrl: "https://github.com/Renfrew100/journaspect",
   },
   {
@@ -37,17 +38,17 @@ const projects = [
     image: "/projects/project4-4.png",
     tags: ["React", "Node.js", "MongoDB"],
     demoUrl: "#",
-    githubUrl: "#",
+    githubUrl: "https://github.com/SEG491X-T11/Alpialcanada-website",
   },
     {
     id: 5,
-    title: "E-commerce Platform",
+    title: "FinTech",
     description:
-      "Full-featured e-commerce platform with user authentication and payment processing.",
-    image: "/projects/project3.png",
-    tags: ["React", "Node.js", "Stripe"],
+      "A mobile finance application that allows users to budget accordingly depending on spendings",
+    image: "/projects/project5-5.png",
+    tags: ["Android Studio", "Firebase", "Gradle"],
     demoUrl: "#",
-    githubUrl: "#",
+    githubUrl: "https://github.com/Renfrew100/FinTech",
   },
 ];
 
